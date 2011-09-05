@@ -1,6 +1,6 @@
 {
     "name": "Social Hotness",
-    "version": "0.1",
+    "version": "0.1.1",
     "description": "Find hot spots on social sites and highlight them with different shades of color!",
     "homepage_url": "http://github.com/wuzhe/social-hotness",
     "update_url": "https://raw.github.com/wuzhe/social-hotness/master/updates.xml",
