@@ -50,6 +50,9 @@ $(function() {
     nn = nl.map(function(x) { return x.val; });
     nmin = Math.min.apply(Math, nn);
     nmax = Math.max.apply(Math, nn);
+
+    if (nmin === nmax) return;
+
     scale = (upc - loc) / (nmax - nmin);
 
     nl.forEach(function(x) {
