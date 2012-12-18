@@ -3,7 +3,6 @@
     "version": "0.1.1",
     "description": "Find hot spots on social sites and highlight them with different shades of color!",
     "homepage_url": "http://github.com/wuzhe/social-hotness",
-    "update_url": "https://raw.github.com/wuzhe/social-hotness/master/updates.xml",
     "icons": { "16": "img/icon16.png",
                "48": "img/icon48.png",
                "128": "img/icon128.png" },
