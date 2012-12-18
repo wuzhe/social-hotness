@@ -4,7 +4,7 @@ $(function() {
   var selectors = 'div:not(:has(*)),'
         + 'span:not(:has(*)),'
         + 'a:not(:has(*)),'
-        + 'li:not(:has(*)),';
+        + 'li:not(:has(*))';
 
   var rules = [
     {re: /\b\d+(,\d{3})*\s+(comments?|replies)\b/i,
