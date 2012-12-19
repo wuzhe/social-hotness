@@ -20,14 +20,9 @@ See the screenshot to get a feel how it works:
 Install the extension and head to http://news.ycombinator.com to see
 it in action.
 
-How to install:
+For Chrome users to install the extension:
 
-  1. click to download
-
-         https://raw.github.com/wuzhe/social-hotness/master/social-hotness.crx
-
-  2. drag the downloaded ``social-hotness.crx'' file to your chrome window.
-
+    https://chrome.google.com/webstore/detail/social-hotness/ahabkiagphnfbeehielogfcdkfhkonjh
 
 If you want to have the feature in other browsers, you may find the
 user script by @ashleyw useful
